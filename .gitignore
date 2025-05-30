@@ -172,3 +172,22 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pkl
+*.env
+*.venv
+.env
